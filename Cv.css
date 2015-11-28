@@ -1,0 +1,51 @@
+ottante
+	{
+	width: 100px;
+	height: 100px;
+}
+h1
+{
+	text-align: center;
+	color: red;
+}
+p
+{
+font-family: Comic Sans MS ;
+color: white;
+}
+div
+{
+	width: 100%;
+	max-width: 960px;
+	padding: 10px;
+	marging: 15px;
+}
+.main
+{
+	padding: 20px;
+	clear: both;
+	text-align: left;
+	-webkit-columns: 3;
+	-moz-columns: 3;
+	columns: 3;
+	border-width:2px;
+	border-style: solid;
+	border-color: grey;
+}
+body {
+	background-image:url(http://img15.hostingpics.net/pics/351316footer.png);
+}
+.footer
+{
+	text-align: right;
+	padding: 50px;
+	
+}
+.map
+{
+	text-align: left;
+}
+.footer p 
+{
+	margin: 30px;
+}
